@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T08:55:39.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="Mxws67SyeobtiRhIrscq" version="13.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-23T10:50:18.376Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="VzXsgFJMQ73Z_BxTbE3b" version="13.3.0" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="duck-start">
-    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KiX2cddgYX2e3X7S455z" name="duck-fly">
-    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rlA8tYU2-CZOIeh4OIQl-0" />
         <mxCell id="rlA8tYU2-CZOIeh4OIQl-1" parent="rlA8tYU2-CZOIeh4OIQl-0" />
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="duck-fly-2" id="fmZiHEUkrdfOJuzTrtlD">
-    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PKTgzgaeXIcSAI_jFuVf-0" />
         <mxCell id="PKTgzgaeXIcSAI_jFuVf-1" parent="PKTgzgaeXIcSAI_jFuVf-0" />
@@ -188,7 +188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="duck-fly-3" id="6K3LriF_sWveT8fi_Joq">
-    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FySgucwXsKYY9xTfy-Jw-0" />
         <mxCell id="FySgucwXsKYY9xTfy-Jw-1" parent="FySgucwXsKYY9xTfy-Jw-0" />
@@ -274,11 +274,19 @@
         <mxCell id="FySgucwXsKYY9xTfy-Jw-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.invaluable.com/blog/wp-content/uploads/2016/07/duck-decoys-featured-1-670x369.jpg;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
           <mxGeometry x="660" y="525.5" width="180" height="99" as="geometry" />
         </mxCell>
+        <mxCell id="K7wokqlzQrxyk3OuUjRQ-0" value="NormalDuckButSick" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="200" y="690" width="160" height="140" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K7wokqlzQrxyk3OuUjRQ-1" value="display(){&lt;br&gt;sout(&#39;I&#39;m a duck)}&lt;br&gt;&lt;b&gt;I don&#39;t quack&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="K7wokqlzQrxyk3OuUjRQ-0">
+          <mxGeometry y="26" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Ex6GAfdLn8UNp6uDQzTx" name="final-ducks">
-    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aNmika2YM7QeSGUYNpOp-0" />
         <mxCell id="aNmika2YM7QeSGUYNpOp-1" parent="aNmika2YM7QeSGUYNpOp-0" />
