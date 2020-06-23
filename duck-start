@@ -1,1 +1,280 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T08:21:54.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="BIKpo3FFANhQb33Nb116" version="13.3.0" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Vlbc9o4FP41TLsPYbBlHPIYQ3NrupPbJt2njLCErSJbriwC5Nf3yJbxjQTYIel2JrwgfZKOrPN9OkeWO2gYLU4lTsJvglDesXtk0UGjjm1bju3Cn0aWOXLoWDkQSEZMpxK4Zc/UgD2Dzhihaa2jEoIrltRBX8Qx9VUNw1KKeb3bRPD6rAkOaAu49TFvow+MqDBHB/ZhiZ9RFoTFzJZ7lLdEuOhsVpKGmIh5BUJfOmgohVB5KVoMKdfOK/zycL584JdT9/TiOv2J//G+3v19f5AbO9llyGoJksbqP5t+nk5Ozu6dH9+Tq5Pree/0eHxxYIb0njCfGX+NZv7UrFctCyemcxZxHEPNm4hY3ZoWcIGHOQtiKPvwbFQC8ESlYuD/Y9OgRAKoHzJOLvFSzPQKUoX9aVHzQiHZM5jFHJosAKBZKiMl0F+1x60eCXAPUElT6HNVuMVaQZc4VaaPLzjHScrG2QPrLhGWAYs9oZSICkNiFhNKTG3Fc1ZRUkxXytHjtyTDkKa9QRcVKRpyTqmIqJJL6GJaVzozG80q6vNStpZrsLAqWTQw28VslWBlezXdDWwtHAfghHI+1JjP2XK+IiIU02EOxMdYUU+7Ma2KEAqVpZZQJs0dZOq0ZNqSKGeZPEMVlSpqUldoldOJWqPUiBGizXlpgn0WB3dauaMDq0Qus4EjVCI3xi8ok5HCCudK09rheEz5lUiZYkLbl3lfLxEsVpnz+l6nP8oQqYYihifGLFMVBQXPqVbxGr29upM3621Zp3ET3a+Iq0bzrpz2W5z+nMHe/vxXRz8ZsrLdB3GnBhCWJhwvNdbgH1atNlOcB6M6m06bTQ0JGDvhWSAIQRg0XsNwnUkPvDfsdfuaU3sIdaus/zaakbMdza77Rjy7LZ6/YYjJkuySaXofmWZ/mcZqZBrkvm2msRqZBg3+v5nm6CPTbApB7tZ6e/9ME5G7wcJ5uP96qi7i88X1QXh2vub0UKaRQ1i1y/XqxxJKgS6lECw+fzr/FOmHyd4EsngFnUcvpZ2KGDaGqRX5WQh5MZtotvBMiTSPTusDwn4I2jZHFPt47znCQi2Kbig5o/gjSfyuJIGaQXvrJOG8opKXkwRytkgSh++eJNYGlPbRdbeAIikJQdt/TEBZbc+9h/x9RJS1FLUvNlqepjE51hdM2rUcpynz634Hn8jld+1KOMKb6r/VttHC+DmvLU1ttx0JsSWgW5z4Kandc7U9X3F1f42nC0xSjhV7qt+OvbJVr7SGKrcGvRfCQmECtC59akZVr6OahvoNQ1bDUO6YlqF97WHrQyBvIhDHcvYjkH7DkN0fvKtA7M0CgdSc6CKLskvoVWC+bBzHxya75+d0D44MQZbjh4ILmZlCk+z34nkFp0l+OT5hC30y8LIpjwu0VyBQDpXSV+vH2iH2ySzhApPunE1ZRAnDXSEDgHU90XUo+yKK4I0AStqJNnj9BN7Q6aM59j4SOII92t0fSfCW76SN9N9fd/vprJHtEeoWN/Z7TyLtU+mfKIH5fN7VVI7hFDJmkqRGA9mXGfiHyEaVpj8JhRLw76LBkYMc68AZ9JLFGxOPHNSFs2b5c7bQgdt1D9tSsJopZAshQLX8gpOHjvI7GPryCw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-23T08:32:34.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="XhrPMzM9TNRYtMxyMRNg" version="13.3.0" type="github" pages="4">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="duck-start">
+    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="Duck" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="220" y="120" width="160" height="138" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="quack()&#xa;swim()&#xa;display()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+          <mxGeometry y="34" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--6" value="MallardDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="360" width="160" height="138" as="geometry">
+            <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--9" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="mdT8x4WVKGtJnIxQ-hHI-4" value="display(){&lt;br&gt;sout(&#39;I&#39;m a mallard)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="zkfFHV4jXpPFQw0GAbJ--6" vertex="1">
+          <mxGeometry y="34" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--13" value="RedHeadDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="330" y="360" width="160" height="140" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mdT8x4WVKGtJnIxQ-hHI-5" value="display(){&lt;br&gt;sout(&#39;I&#39;m a redhead)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="zkfFHV4jXpPFQw0GAbJ--13" vertex="1">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mdT8x4WVKGtJnIxQ-hHI-0" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mdT8x4WVKGtJnIxQ-hHI-1" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="360" as="sourcePoint" />
+            <mxPoint x="514" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mdT8x4WVKGtJnIxQ-hHI-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/2/24/Male_mallard_duck_2.jpg;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="520" width="140" height="93.69" as="geometry" />
+        </mxCell>
+        <mxCell id="mdT8x4WVKGtJnIxQ-hHI-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.allaboutbirds.org/guide/assets/photo/63894341-480px.jpg;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="343.33000000000004" y="520" width="146.67" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KiX2cddgYX2e3X7S455z" name="duck-fly">
+    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="rlA8tYU2-CZOIeh4OIQl-0" />
+        <mxCell id="rlA8tYU2-CZOIeh4OIQl-1" parent="rlA8tYU2-CZOIeh4OIQl-0" />
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-0" value="Duck" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="rlA8tYU2-CZOIeh4OIQl-1">
+          <mxGeometry x="220" y="120" width="160" height="138" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-1" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TRl6lT-bQxDvj9QHSzsQ-0">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-2" value="quack()&#xa;swim()&#xa;display()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TRl6lT-bQxDvj9QHSzsQ-0">
+          <mxGeometry y="34" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-3" value="MallardDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="rlA8tYU2-CZOIeh4OIQl-1">
+          <mxGeometry x="120" y="360" width="160" height="138" as="geometry">
+            <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-4" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="TRl6lT-bQxDvj9QHSzsQ-3">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-5" value="display(){&lt;br&gt;sout(&#39;I&#39;m a mallard)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TRl6lT-bQxDvj9QHSzsQ-3">
+          <mxGeometry y="34" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-6" value="RedHeadDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="rlA8tYU2-CZOIeh4OIQl-1">
+          <mxGeometry x="330" y="360" width="160" height="140" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-7" value="display(){&lt;br&gt;sout(&#39;I&#39;m a redhead)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TRl6lT-bQxDvj9QHSzsQ-6">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-8" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="rlA8tYU2-CZOIeh4OIQl-1" target="TRl6lT-bQxDvj9QHSzsQ-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="sourcePoint" />
+            <mxPoint x="250" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-9" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="rlA8tYU2-CZOIeh4OIQl-1" target="TRl6lT-bQxDvj9QHSzsQ-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="360" as="sourcePoint" />
+            <mxPoint x="514" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/2/24/Male_mallard_duck_2.jpg;" vertex="1" parent="rlA8tYU2-CZOIeh4OIQl-1">
+          <mxGeometry x="140" y="520" width="140" height="93.69" as="geometry" />
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.allaboutbirds.org/guide/assets/photo/63894341-480px.jpg;" vertex="1" parent="rlA8tYU2-CZOIeh4OIQl-1">
+          <mxGeometry x="343.33000000000004" y="520" width="146.67" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TRl6lT-bQxDvj9QHSzsQ-12" value="Now we want to add fly()?&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="rlA8tYU2-CZOIeh4OIQl-1">
+          <mxGeometry x="550" y="160" width="170" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="duck-fly-2" id="fmZiHEUkrdfOJuzTrtlD">
+    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-0" />
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-1" parent="PKTgzgaeXIcSAI_jFuVf-0" />
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-10" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PKTgzgaeXIcSAI_jFuVf-1" target="PKTgzgaeXIcSAI_jFuVf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="103" y="360" as="sourcePoint" />
+            <mxPoint x="153" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-11" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PKTgzgaeXIcSAI_jFuVf-1" target="PKTgzgaeXIcSAI_jFuVf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="360" as="sourcePoint" />
+            <mxPoint x="417" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/2/24/Male_mallard_duck_2.jpg;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-1">
+          <mxGeometry x="40" y="520" width="140" height="93.69" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.allaboutbirds.org/guide/assets/photo/63894341-480px.jpg;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-1">
+          <mxGeometry x="243.33000000000004" y="520" width="146.67" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-14" value="How do we add rubber duck?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-1">
+          <mxGeometry x="448" y="160" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/51Lec9cgQLL._AC_SX425_.jpg;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-1">
+          <mxGeometry x="482.08000000000004" y="510" width="135.84" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-2" value="Duck" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-1">
+          <mxGeometry x="123" y="120" width="160" height="138" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-3" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-2">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-4" value="quack()&#xa;swim()&#xa;display()&#xa;fly()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-2">
+          <mxGeometry y="34" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-5" value="MallardDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-1">
+          <mxGeometry x="20" y="360" width="160" height="138" as="geometry">
+            <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-6" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-5">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-7" value="display(){&lt;br&gt;sout(&#39;I&#39;m a mallard)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-5">
+          <mxGeometry y="34" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-8" value="RedHeadDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-1">
+          <mxGeometry x="230" y="360" width="160" height="140" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-9" value="display(){&lt;br&gt;sout(&#39;I&#39;m a redhead)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-8">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-15" value="RubberDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-1">
+          <mxGeometry x="470" y="360" width="160" height="140" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-16" value="display(){&lt;br&gt;sout(&#39;I&#39;m a rubber)}&lt;br&gt;&lt;br&gt;quack() { sout (&#39;I squeak!&#39;)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-15">
+          <mxGeometry y="26" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PKTgzgaeXIcSAI_jFuVf-18" value="I don&#39;t fly!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="PKTgzgaeXIcSAI_jFuVf-15">
+          <mxGeometry y="86" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="duck-fly-3" id="6K3LriF_sWveT8fi_Joq">
+    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-0" />
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-1" parent="FySgucwXsKYY9xTfy-Jw-0" />
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-2" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="FySgucwXsKYY9xTfy-Jw-1" target="FySgucwXsKYY9xTfy-Jw-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="103" y="360" as="sourcePoint" />
+            <mxPoint x="153" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="FySgucwXsKYY9xTfy-Jw-1" target="FySgucwXsKYY9xTfy-Jw-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="360" as="sourcePoint" />
+            <mxPoint x="417" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/2/24/Male_mallard_duck_2.jpg;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="40" y="520" width="140" height="93.69" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.allaboutbirds.org/guide/assets/photo/63894341-480px.jpg;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="243.33000000000004" y="520" width="146.67" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-6" value="How do we add decoy duck?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="448" y="160" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/51Lec9cgQLL._AC_SX425_.jpg;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="482.08000000000004" y="510" width="135.84" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-8" value="Duck" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="123" y="120" width="160" height="138" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-9" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-8">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-10" value="quack()&#xa;swim()&#xa;display()&#xa;fly()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-8">
+          <mxGeometry y="34" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-11" value="MallardDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="20" y="360" width="160" height="138" as="geometry">
+            <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-12" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-11">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-13" value="display(){&lt;br&gt;sout(&#39;I&#39;m a mallard)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-11">
+          <mxGeometry y="34" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-14" value="RedHeadDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="230" y="360" width="160" height="140" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-15" value="display(){&lt;br&gt;sout(&#39;I&#39;m a redhead)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-14">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-16" value="RubberDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="470" y="360" width="160" height="140" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-17" value="display(){&lt;br&gt;sout(&#39;I&#39;m a rubber)}&lt;br&gt;&lt;br&gt;quack() { sout (&#39;I squeak!&#39;)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-16">
+          <mxGeometry y="26" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-18" value="I don&#39;t fly!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-16">
+          <mxGeometry y="86" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-20" value="DecoyDuck" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="680" y="360" width="160" height="140" as="geometry">
+            <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-21" value="display(){&lt;br&gt;sout(&#39;I&#39;m a rubber)}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-20">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-22" value="I don&#39;t fly!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-20">
+          <mxGeometry y="56" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-24" value="I don&#39;t quack!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-20">
+          <mxGeometry y="76" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FySgucwXsKYY9xTfy-Jw-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.invaluable.com/blog/wp-content/uploads/2016/07/duck-decoys-featured-1-670x369.jpg;" vertex="1" parent="FySgucwXsKYY9xTfy-Jw-1">
+          <mxGeometry x="660" y="525.5" width="180" height="99" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
